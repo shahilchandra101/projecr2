@@ -1,3 +1,4 @@
 # New project
 
-this project is created on locat host 
+this project is created on local host 
+updated
